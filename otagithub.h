@@ -1,4 +1,7 @@
 
+#ifndef REPOSITORY
+#define REPOSITORY "StarMX/ESP-01"
+#endif
 namespace espota
 {
 
