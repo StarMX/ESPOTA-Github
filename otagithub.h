@@ -1,6 +1,6 @@
 
 #ifndef REPOSITORY
-#define REPOSITORY "StarMX/ESP-01"
+#define REPOSITORY "StarMX/ESPOTA-Github"
 #endif
 namespace espota
 {
